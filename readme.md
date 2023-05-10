@@ -1,3 +1,4 @@
+![app image](https://raw.githubusercontent.com/gr-b/gpt-creativity-training-app/master/readme-image.png)
 ### Categorcle
 Brain-training app test using creative AI
 
