@@ -1,0 +1,7 @@
+Flask
+flask-cors
+openai
+gunicorn
+psycopg2-binary
+Flask-limiter
+python-dotenv

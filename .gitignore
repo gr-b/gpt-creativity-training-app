@@ -1,0 +1,5 @@
+/backend/items.db
+items.db
+run-server.sh
+run-docker.sh
+.env
